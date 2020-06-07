@@ -2,8 +2,11 @@
 my contact information
 
 text: 713-822-0685
+
 email: david.mallett.utexas@gmail.com
+
 personal GPG public key:
+
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
